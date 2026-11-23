@@ -1,0 +1,21 @@
+period_id,group,regime,t,t1,weekday_t,vix_tm1,vix_t,vix_t1,note
+1,regular,normal,2023-01-18,2023-01-19,Wed,19.4,20.3,20.5,
+2,regular,calm,2023-06-06,2023-06-07,Tue,14.7,14.0,13.9,
+3,regular,normal,2023-10-18,2023-10-19,Wed,17.9,19.2,21.4,
+4,regular,calm,2024-02-06,2024-02-07,Tue,13.7,13.1,12.8,
+5,regular,stressed,2024-08-06,2024-08-07,Tue,38.6,27.7,27.9,peak of the August 2024 shock
+6,regular,normal,2024-08-14,2024-08-15,Wed,18.1,16.2,15.2,August 2024: back to normal
+7,regular,calm,2024-08-20,2024-08-21,Tue,14.7,15.9,16.3,August 2024: calm regime
+8,regular,stressed,2025-03-11,2025-03-12,Tue,27.9,26.9,24.2,March 2025 correction
+9,regular,stressed,2025-04-08,2025-04-09,Tue,47.0,52.3,33.6,tariff shock peak; VIX collapses at t+1
+10,regular,stressed,2025-04-15,2025-04-16,Tue,30.9,30.1,32.6,persistent stress; VIX rises at t+1
+11,regular,normal,2025-05-13,2025-05-14,Tue,18.4,18.2,18.6,
+12,regular,calm,2025-08-13,2025-08-14,Wed,14.7,14.5,14.8,
+13,regular,calm,2026-01-07,2026-01-08,Wed,14.8,15.4,15.4,
+14,regular,normal,2026-01-14,2026-01-15,Wed,16.0,16.8,15.8,
+15,regular,stressed,2026-03-25,2026-03-26,Wed,26.9,25.3,27.4,2026 episode
+16,regular,stressed,2026-03-31,2026-04-01,Tue,30.6,25.2,24.5,2026 episode (peak)
+17,regular,calm,2026-09-23,2026-09-24,Wed,14.2,15.2,15.7,
+18,regular,normal,2026-10-21,2026-10-22,Wed,17.3,16.7,19.0,
+E1,event,event,2024-07-31,2024-08-01,Wed,17.7,16.4,18.6,FOMC; eve of the August 2024 shock
+E2,event,event,2026-07-29,2026-07-30,Wed,18.2,20.7,17.1,FOMC; VIX +2.5 within the day

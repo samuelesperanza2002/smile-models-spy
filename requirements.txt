@@ -1,0 +1,7 @@
+# Versions used for the thesis (macOS, Apple M1, Python 3.14.3)
+numpy==2.5.4
+scipy==1.18.1
+pandas==3.1.0
+pyarrow==26.0.0
+matplotlib==3.11.2
+requests==2.34.2
